@@ -1,21 +1,18 @@
-<!-- Profile Header
+![unnamed](https://github.com/user-attachments/assets/5b30763a-855d-43da-808a-db64e684b5a7)
+---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:9f78ff&height=180&section=header&text=Hey%20There!%20I'm%20John%20👋&fontSize=38&fontColor=ffffff" alt="header"/>
+  <img src="[https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=tim%20ahner&textBg=false&animation=fadeIn]" alt="header"/>
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9F78FF&center=true&vCenter=true&width=435&lines=Python+Dev+🐍;Meme+Maker+😄;Builder+of+Cool+Stuff+🚀;Welcome+to+my+GitHub!" />
-</p>
- -->
 ---
 
-## About Me
+## me
 
 - I love PHP
+- I love anime :3
 
 ---
 
-## Projects
+## projects
 
 | Project | Description |
 |--------|-------------|
@@ -23,7 +20,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## languages and tech
 
 ![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
