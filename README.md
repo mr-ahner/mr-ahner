@@ -1,7 +1,7 @@
-<center>
-https://github.com/user-attachments/assets/166667e6-a6c0-48b1-a696-98f9a88b291d
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/166667e6-a6c0-48b1-a696-98f9a88b291d" alt="Image" width="500">
+</p>
 
-</center>
 ---
 
 ## me
