@@ -11,7 +11,7 @@
 
 | Project | Description |
 |--------|-------------|
-| [**Nazbook**](https://github.com/your-username/pynest-os) | Nazbook is a guestbook software for the average user. |
+| [**Nazbook**](https://github.com/mr-ahner/nazbook) | Nazbook is a guestbook software for the average user. |
 
 ## languages and tech
 
