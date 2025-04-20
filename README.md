@@ -1,6 +1,7 @@
 <center>
-![unnamed](https://github.com/user-attachments/assets/5b30763a-855d-43da-808a-db64e684b5a7)
-  </center>
+![unnamed](https://github.com/user-attachments/assets/166667e6-a6c0-48b1-a696-98f9a88b291d)
+
+</center>
 ---
 
 ## me
