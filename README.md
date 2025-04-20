@@ -1,8 +1,6 @@
+<center>
 ![unnamed](https://github.com/user-attachments/assets/5b30763a-855d-43da-808a-db64e684b5a7)
----
-<p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=tim%20ahner&textBg=false&animation=fadeIn]" alt="header"/>
-</p>
+  </center>
 ---
 
 ## me
