@@ -12,6 +12,8 @@
 | Project | Description |
 |--------|-------------|
 | [**Nazbook**](https://github.com/mr-ahner/nazbook) | Nazbook is a guestbook software for the average user. |
+| [**Abscissa**](https://github.com/mr-ahner/abscissa) | Abscissa is a article software, that could also be used a blog software. |
+
 
 ## languages and tech
 
