@@ -5,8 +5,6 @@
 ## me
 
 - I love PHP
-- I love anime :3
-
 ## projects
 
 | Project | Description |
